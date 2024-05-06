@@ -42,7 +42,8 @@
 
 			// コンセプトエリア
 			&.-concept{
-				top: 2.25%;
+				// top: 2.25%;
+				top: 2%;
 				@include min(768){
 					top: 4.5%;
 				}

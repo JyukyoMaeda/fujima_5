@@ -1688,7 +1688,7 @@ p.Information::after, span.Information::after, a.Information::after {
   width: 100%;
 }
 .c-contents.-imgBg .c-contentsBox.-concept {
-  top: 2.25%;
+  top: 2%;
 }
 @media (width >= 768px) {
   .c-contents.-imgBg .c-contentsBox.-concept {
